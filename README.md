@@ -46,6 +46,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Videos
 
+<https://drive.google.com/file/d/1bxdPxUojXF1qPpoUVgyn2QdQWOXE4DYT/view?usp=sharing>
+<https://drive.google.com/file/d/1Sl06Prn4cmZYu8atU_pyNZi0tAmZS529/view?usp=sharing>
+
 ## Screenshots
 
 Insomnia - GET command
