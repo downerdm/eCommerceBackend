@@ -48,5 +48,15 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Screenshots
 
+Insomnia - GET command
+
+![A user searches the eCommerce DB for all categories.](./assets/images/Insomnia_GET.png)
+
+Insomnia - POST command
+
+![A user makes a new category in the eCommerce DB .](./assets/images/Insomnia_POST.png)
+
 ## GitHub Repository Link
+
+<https://github.com/downerdm/eCommerceBackend>
 
